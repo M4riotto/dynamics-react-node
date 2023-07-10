@@ -1,0 +1,90 @@
+.modal{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999999999;
+}
+
+.modal > .container{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 40px 20px rgba(0, 0, 0, 0.25);
+    height: 650px;
+    width: 500px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+}
+
+.modal > .container > .formModal{
+    width: 100%;
+    display: flex; 
+    flex-direction: column;
+    align-items: center ;
+}
+
+.modal > .container > .xizinho{
+    display: flex;
+    justify-content: flex-end;
+    width: 83%;
+    color: #252525;
+    font-weight: bolder;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: -100px; 
+}
+
+.modal > .container > h2{
+    font-size: 35px;
+    margin-top: -3px;
+    padding-bottom: 10px;
+}
+
+.modal > .container > .formModal > input{
+    width: 65%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgba(97, 97, 97, 0.866);
+    outline: 0;
+    margin: 20px 0 0 0;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-size: 18px;
+    font-weight:600;
+    color: #626264b1;
+}
+
+.modal > .container > .formModal > .enviar, .fechar {
+    width: 65%;
+    height: 45px;
+    border: 0;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.modal > .container > .formModal > .enviar{
+    background: linear-gradient(90deg, #0070C0 0%, rgba(15, 154, 254, 0.7) 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+}
+
+.modal > .container > .formModal > .fechar {
+    background: linear-gradient(90deg, #252525 0%, rgba(37, 37, 37, 0.76) 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* img{
+    padding-left: 150px;
+    width: 800px;
+} */
