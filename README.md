@@ -9,6 +9,7 @@
 
 ### 🎁 Bônus:
  - Rotina CRUD;
+ - Habilidade com ZOD;
  
 ##
 ### <div align="center">🚀 Skills</div>
@@ -16,16 +17,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src"https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="[https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black](https://static-00.iconduck.com/assets.00/nodejs-icon-2048x1254-fc24w6ld.png)">
+  <img src="https://img.shields.io/badge/node-262626?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/zod-4682B4?style=for-the-badge&logo=zod">
+ 
 </div>
 
 
 ##
 ### <div align="center">Integrantes</div>
 <div align="center">
+
  
+ <img src="https://undertakehigh.com.br/teste/wp-content/uploads/2024/05/card-vitor.png" width="450px" style="border-radius: 10px;"></img>
  
 </div>
 
